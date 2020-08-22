@@ -1,5 +1,5 @@
 ## 100 numpy exercises
-Creator: Nicolas P. Rougier - w/ Contributors [https://github.com/rougier/numpy-100/graphs/contributors]
+    Creator: Nicolas P. Rougier - w/ Contributors [https://github.com/rougier/numpy-100/graphs/contributors]
 
     Title: `numpy-100` - repository
     
