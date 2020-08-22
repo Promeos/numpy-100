@@ -1,7 +1,10 @@
 ## 100 numpy exercises
 Creator: Nicolas P. Rougier - w/ Contributors [https://github.com/rougier/numpy-100/graphs/contributors]
+
     Title: `numpy-100` - repository
+    
     Date: May 26, 2014
+    
     Source: https://github.com/rougier/numpy-100
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/rougier/numpy-100/notebooks/100%20Numpy%20exercises.ipynb)
